@@ -1,0 +1,59 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "2a9bd74e8a6ad64424fd84ee4789f943d513b1e2"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "GoogleQuery/1.0.0": {
+        "dependencies": {
+          "GoogleCustomSearchEngine": "4.0.4"
+        },
+        "runtime": {
+          "GoogleQuery.dll": {}
+        }
+      },
+      "GoogleCustomSearchEngine/4.0.4": {
+        "dependencies": {
+          "Newtonsoft.Json": "11.0.2"
+        },
+        "runtime": {
+          "lib/net45/GoogleCSE.dll": {
+            "assemblyVersion": "3.0.0.0",
+            "fileVersion": "3.0.0.0"
+          }
+        }
+      },
+      "Newtonsoft.Json/11.0.2": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "11.0.0.0",
+            "fileVersion": "11.0.2.21924"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GoogleQuery/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GoogleCustomSearchEngine/4.0.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-RrXL1Htt3IwBL4e96WVy9+uGxPv+iGAqZ5uW/JtGVKEb84yGbAICra+BSVC8/6uzdtmabHXXwFU4L9XQ22Mp9w==",
+      "path": "googlecustomsearchengine/4.0.4",
+      "hashPath": "googlecustomsearchengine.4.0.4.nupkg.sha512"
+    },
+    "Newtonsoft.Json/11.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-IvJe1pj7JHEsP8B8J8DwlMEx8UInrs/x+9oVY+oCD13jpLu4JbJU2WCIsMRn5C4yW9+DgkaO8uiVE5VHKjpmdQ==",
+      "path": "newtonsoft.json/11.0.2",
+      "hashPath": "newtonsoft.json.11.0.2.nupkg.sha512"
+    }
+  }
+}

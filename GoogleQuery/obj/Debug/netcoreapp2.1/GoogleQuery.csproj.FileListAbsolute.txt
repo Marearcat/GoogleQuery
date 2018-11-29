@@ -1,0 +1,11 @@
+C:\Users\Rishat\source\repos\GoogleQuery\GoogleQuery\bin\Debug\netcoreapp2.1\GoogleQuery.deps.json
+C:\Users\Rishat\source\repos\GoogleQuery\GoogleQuery\bin\Debug\netcoreapp2.1\GoogleQuery.runtimeconfig.json
+C:\Users\Rishat\source\repos\GoogleQuery\GoogleQuery\bin\Debug\netcoreapp2.1\GoogleQuery.runtimeconfig.dev.json
+C:\Users\Rishat\source\repos\GoogleQuery\GoogleQuery\bin\Debug\netcoreapp2.1\GoogleQuery.dll
+C:\Users\Rishat\source\repos\GoogleQuery\GoogleQuery\bin\Debug\netcoreapp2.1\GoogleQuery.pdb
+C:\Users\Rishat\source\repos\GoogleQuery\GoogleQuery\obj\Debug\netcoreapp2.1\GoogleQuery.csprojAssemblyReference.cache
+C:\Users\Rishat\source\repos\GoogleQuery\GoogleQuery\obj\Debug\netcoreapp2.1\GoogleQuery.csproj.CoreCompileInputs.cache
+C:\Users\Rishat\source\repos\GoogleQuery\GoogleQuery\obj\Debug\netcoreapp2.1\GoogleQuery.AssemblyInfoInputs.cache
+C:\Users\Rishat\source\repos\GoogleQuery\GoogleQuery\obj\Debug\netcoreapp2.1\GoogleQuery.AssemblyInfo.cs
+C:\Users\Rishat\source\repos\GoogleQuery\GoogleQuery\obj\Debug\netcoreapp2.1\GoogleQuery.dll
+C:\Users\Rishat\source\repos\GoogleQuery\GoogleQuery\obj\Debug\netcoreapp2.1\GoogleQuery.pdb
